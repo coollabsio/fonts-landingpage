@@ -98,7 +98,7 @@
 					<div class="mt-5">
 						<div class="text-lg leading-6 font-extrabold text-white">Cached by BunnyCDN</div>
 						<div class="mt-2 text-base text-gray-300">
-							Fonts and API requested cached at <a class="text-yellow-500 font-bold underline" href="https://bunny.net" target="_blank">BunnyCDN</a>, with logging turned off completely and it's super fast (as a <span class="text-yellow-500 font-bold">bunny</span>)! 🐰
+							Fonts and API requests cached at <a class="text-yellow-500 font-bold underline" href="https://bunny.net" target="_blank">BunnyCDN</a>, with logging turned off completely and it's super fast (as a <span class="text-yellow-500 font-bold">bunny</span>)! 🐰
 						</div>
 					</div>
 				</div>
