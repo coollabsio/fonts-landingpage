@@ -70,7 +70,7 @@
 						<div class="text-lg leading-6 font-extrabold text-white">Hosted on Bare Metal</div>
 						<div class="mt-2 text-base text-gray-300">
 							The API is hosted on bare metal servers and not on a cloud provider, with <a
-							class="font-bold text-green-500 underline"
+								class="font-bold text-green-500 underline"
 								href="https://coolify.io"
 								target="_blank">Coolify</a
 							>.
@@ -98,7 +98,12 @@
 					<div class="mt-5">
 						<div class="text-lg leading-6 font-extrabold text-white">Cached by BunnyCDN</div>
 						<div class="mt-2 text-base text-gray-300">
-							Fonts and API requests cached at <a class="text-yellow-500 font-bold underline" href="https://bunny.net" target="_blank">BunnyCDN</a>, with logging turned off completely and it's super fast (as a <span class="text-yellow-500 font-bold">bunny</span>)! 🐰
+							Fonts and API requests cached at <a
+								class="text-yellow-500 font-bold underline"
+								href="https://bunny.net"
+								target="_blank">BunnyCDN</a
+							>, with logging turned off completely and it's super fast (as a
+							<span class="text-yellow-500 font-bold">bunny</span>)! 🐰
 						</div>
 					</div>
 				</div>
@@ -176,6 +181,19 @@
 			></span
 		>
 	</h2>
+	<div class="flex justify-center py-8">
+		<a
+			href="https://www.producthunt.com/posts/privacy-focused-google-fonts-alternative?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-privacy-focused-google-fonts-alternative"
+			target="_blank"
+			><img
+				src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=330902&theme=dark"
+				alt="Privacy-focused Google Fonts alternative - Same API, privacy-focused, fast & zero logging. | Product Hunt"
+				style="width: 250px; height: 54px;"
+				width="250"
+				height="54"
+			/></a
+		>
+	</div>
 </div>
 
 <Subscribe />
