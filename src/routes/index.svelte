@@ -11,7 +11,7 @@
 		<div class="text-center flex flex-col justify-center items-center">
 			<p class="mt-1 font-extrabold text-white text-5xl  lg:text-6xl text-center gradient">Fonts</p>
 			<h2 class="text-2xl md:text-3xl font-extrabold text-white pt-8">
-				Privacy-focused <span class="text-sky-500">Google Fonts</span> alternative
+				A privacy-friendly drop-in replacement<br> for <span class="text-sky-500">Google Fonts</span>
 			</h2>
 		</div>
 	</div>
