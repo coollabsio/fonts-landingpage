@@ -38,8 +38,16 @@
 			<a
 				href="https://github.com/coollabsio/fonts#how-to-use"
 				target="_blank"
-				class="tracking-tight text-gray-300 text-xs font-mono hover:underline">(see an example)</a
+				class="tracking-tight text-gray-300 text-xs font-mono hover:underline">(see an example	)</a
 			>
+		</div>
+		<div class="text-base font-extrabold tracking-tight text-white py-5 pt-10">
+			(Also works with <span class="font-bold text-green-500 underline"><a href="https://fonts.google.com/icons" target="_blank">Material Icons</a></span>!)
+		</div>
+		<div class="flex justify-center pb-4">
+			<div class="tracking-tight text-white font-mono bg-black px-4 py-2 rounded text-sm">
+				{`<link href="https://api.fonts.coollabs.io/icon?family=Material+Icons" rel="stylesheet">`}
+			</div>
 		</div>
 	</div>
 </div>
