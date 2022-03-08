@@ -38,7 +38,7 @@
 			<a
 				href="https://github.com/coollabsio/fonts#how-to-use"
 				target="_blank"
-				class="tracking-tight text-gray-300 text-xs font-mono hover:underline">(see an example	)</a
+				class="tracking-tight text-gray-300 text-xs font-mono hover:underline">(see an example)</a
 			>
 		</div>
 		<div class="text-base font-extrabold tracking-tight text-white py-5 pt-10">
